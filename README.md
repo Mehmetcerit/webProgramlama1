@@ -8,9 +8,9 @@ Tasarlayan: Mehmet Cerit
 
 # Dosyalar
 
-1. ...
-2. ...
-3. ...
+1. biletall.html
+2. Özgeçmiş.html
+
  
 
 # Kullanılan Araçlar
