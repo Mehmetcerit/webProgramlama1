@@ -28,5 +28,4 @@ Tasarlayan: Mehmet Cerit
 # Kullanılan Yöntemler
 
  1. Tasarım sistemleri
- 2. Sunucusuz sistemler
-
+ 2. Sunucusuz sistemler.
